@@ -1,0 +1,19 @@
+# Core JARVIS desktop assistant dependencies
+google-genai
+python-dotenv
+numpy
+sounddevice
+faster-whisper
+keyboard
+
+# Desktop interface
+PySide6
+
+# Optional desktop automation and utilities
+PyAutoGUI
+pyperclip
+screen-brightness-control
+pygame
+
+# Opera browser automation
+playwright
