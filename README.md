@@ -79,7 +79,7 @@ If PowerShell blocks activation, you can use the environment's Python directly:
 
 ```powershell
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
-`.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
 Otherwise, after activating the environment:
